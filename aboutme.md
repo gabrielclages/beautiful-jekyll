@@ -24,11 +24,19 @@ Since 2015 I've been working at [Hotmart](http://www.hotmart.com) one of the mos
 ### Courses
 - [Coursera](https://www.coursera.com/)
 
- ..* [Executive Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/8H6M68HVVC8V)
+ * [Executive Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/8H6M68HVVC8V)
+ * [Pratical Machine Learning](https://www.coursera.org/account/accomplishments/verify/FFF884WCW7C9)
+ * [Building a Data Sciece Team](https://www.coursera.org/account/accomplishments/verify/MWEWASMEZP6C)
+ * [Developing Data Products](https://www.coursera.org/account/accomplishments/verify/SKAQGZMF3TMA)
+ * [Regression Models](https://www.coursera.org/account/accomplishments/verify/YFGLD58DCW5B)
+ 
 - [Data Camp](https://www.datacamp.com/)
 
 - [Udemy](https://www.udemy.com/)
 
+ * [Data Sciece](https://www.udemy.com/certificate/UC-XWAYVGJ6/)
+ * [Productivity: Evernote + GTD](https://www.udemy.com/certificate/UC-G02HIR28/)
+ * [Productivity: Gmail + GTD](https://www.udemy.com/certificate/UC-JUUZAY9W/)
 ### Important Events
 - 2017 - Open Data Science Conference (Boston, MA)
 - 2016 - Big Data Week (Rio de Janeiro, Brazil)
