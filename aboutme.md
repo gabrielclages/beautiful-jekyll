@@ -24,7 +24,7 @@ Since 2015 I've been working at [Hotmart](http://www.hotmart.com) one of the mos
 ### Courses
 - [Coursera](https://www.coursera.com/)
 
- -[Executive Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/8H6M68HVVC8V)
+ *[Executive Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/8H6M68HVVC8V)
 - [Data Camp](https://www.datacamp.com/)
 
 - [Udemy](https://www.udemy.com/)
