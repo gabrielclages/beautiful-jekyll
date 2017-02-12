@@ -22,24 +22,21 @@ Since 2015 I've been working at [Hotmart](http://www.hotmart.com) one of the mos
 - 2011/2013 - Pricing Analyst - [Localiza](https://www.localiza.com/)
 
 ### Courses
-- [Coursera](https://www.coursera.com/)
-
- -- [Executive Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/8H6M68HVVC8V)
- -- [Pratical Machine Learning](https://www.coursera.org/account/accomplishments/verify/FFF884WCW7C9)
- -- [Building a Data Sciece Team](https://www.coursera.org/account/accomplishments/verify/MWEWASMEZP6C)
- -- [Developing Data Products](https://www.coursera.org/account/accomplishments/verify/SKAQGZMF3TMA)
- -- [Regression Models](https://www.coursera.org/account/accomplishments/verify/YFGLD58DCW5B)
+####[Coursera](https://www.coursera.com/)
+ * [Executive Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/8H6M68HVVC8V)
+ * [Pratical Machine Learning](https://www.coursera.org/account/accomplishments/verify/FFF884WCW7C9)
+ * [Building a Data Sciece Team](https://www.coursera.org/account/accomplishments/verify/MWEWASMEZP6C)
+ * [Developing Data Products](https://www.coursera.org/account/accomplishments/verify/SKAQGZMF3TMA)
+ * [Regression Models](https://www.coursera.org/account/accomplishments/verify/YFGLD58DCW5B)
  
-- [Data Camp](https://www.datacamp.com/)
-
+####[Data Camp](https://www.datacamp.com/)
  * [Python Data Science Toolbox](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
  * [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
  * [Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
  * [Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
  * [Interactive Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
 
-- [Udemy](https://www.udemy.com/)
-
+####[Udemy](https://www.udemy.com/)
  * [Data Sciece](https://www.udemy.com/certificate/UC-XWAYVGJ6/)
  * [Productivity: GTD + Evernote](https://www.udemy.com/certificate/UC-G02HIR28/)
  * [Productivity: GTD + Gmail](https://www.udemy.com/certificate/UC-JUUZAY9W/)
