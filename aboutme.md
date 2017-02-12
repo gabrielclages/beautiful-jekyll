@@ -32,11 +32,18 @@ Since 2015 I've been working at [Hotmart](http://www.hotmart.com) one of the mos
  
 - [Data Camp](https://www.datacamp.com/)
 
+ * [Python Data Science Toolbox](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
+ * [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+ * [Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
+ * [Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
+ * [Interactive Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
+
 - [Udemy](https://www.udemy.com/)
 
  * [Data Sciece](https://www.udemy.com/certificate/UC-XWAYVGJ6/)
- * [Productivity: Evernote + GTD](https://www.udemy.com/certificate/UC-G02HIR28/)
- * [Productivity: Gmail + GTD](https://www.udemy.com/certificate/UC-JUUZAY9W/)
+ * [Productivity: GTD + Evernote](https://www.udemy.com/certificate/UC-G02HIR28/)
+ * [Productivity: GTD + Gmail](https://www.udemy.com/certificate/UC-JUUZAY9W/)
+ 
 ### Important Events
 - 2017 - Open Data Science Conference (Boston, MA)
 - 2016 - Big Data Week (Rio de Janeiro, Brazil)
