@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: '''In god we trust. All others must bring data'''. Willian Edwards Deming
+subtitle: In god we trust. All others must bring data. - W. E. Deming
 ---
 
 Hi, my name is Gabriel Lages and Data Science is my passion. I've been spending the better part of my professional life helping companies make decisions based on Data Analysis.
