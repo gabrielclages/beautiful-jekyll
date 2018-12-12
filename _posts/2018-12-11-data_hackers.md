@@ -10,7 +10,7 @@ In the beginning we created the community just to get closer to some brazilian D
 
 After 45 weeks our email open rate is still greater than 45% (sometimes trespassing 50%). If you don't trust in me (there's not any problem, I understand you, who would start following a newsletter in 2018???), but I can show you some charts from our mail delivery system.
 
-![clicks](gabrielclages.github.io/img/datahackers_clicks.PNG)
+![clicks](https://gabrielclages.github.io/img/datahackers_clicks.PNG)
 
 You can also join our [community](http://datahackers.com.br/) if you want (and if you speak portuguese, or if you wanna learn a new language :)) 
 
