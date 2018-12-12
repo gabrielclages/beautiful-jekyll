@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meet *Data Hackers* the largest Data Science community in Brazil
+title: Meet **Data Hackers** the largest Data Science community in Brazil
 tags: [Data Science, Machine Learning, Community]
 ---
 
@@ -8,7 +8,9 @@ In 2018 I've founded the Data Hackers community with two other Friends, [Allan S
 
 In the beginning we created the community just to get closer to some brazilian Data Science specialists, we couldn't imagine that in less than one year we would become the biggest Data Science community in Brazil.
 
-After 45 weeks our email open rate is still greater than 45% (sometimes trespassing 50%). If you don't trust in me (there's not any problem, I understand you, who would start following a newsletter in 2018???), but I can show you some charts from our mail delivery system if you want.
+After 45 weeks our email open rate is still greater than 45% (sometimes trespassing 50%). If you don't trust in me (there's not any problem, I understand you, who would start following a newsletter in 2018???), but I can show you some charts from our mail delivery system.
+
+![clicks](gabrielclages.github.io/img/datahackers_clicks.PNG)
 
 You can also join our [community](http://datahackers.com.br/) if you want (and if you speak portuguese, or if you wanna learn a new language :)) 
 
