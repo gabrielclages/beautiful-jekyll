@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meet **Data Hackers** the largest Data Science community in Brazil
+title: Meet Data Hackers the largest Data Science community in Brazil
 tags: [Data Science, Machine Learning, Community]
 ---
 
